@@ -1,0 +1,646 @@
+header{
+	text-align: center;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	font-size: 14px;
+}
+
+h2{
+	font-size: 16px;
+}
+
+body{
+	color: #FFFFFF;
+	background-color: black;
+	font-family: arial;
+	align-items: center;
+	margin: 0px;
+}
+
+
+.titel{
+	font-size: 14px;
+    border-bottom: 2px solid white;
+}
+
+
+.StreepjeBovenaan{
+	max-height: 0px;
+	border: 0.5px solid #FFFFFF;
+	display: flex;
+	align-items: center;
+	margin-bottom: 14px;
+	width: 100%;
+}
+
+.StreepjeTussenTijd{
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	width: 0px;
+	height: 45px;
+	margin: 0 auto;
+}
+
+.flex-container1 {
+	background-color: #ff9900;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;
+/*
+	 
+	display: flex;
+	flex-flow: row;                 
+	*/ 
+}
+
+.flex-container2 {
+	background-color: #6699cc;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+.flex-container3 {
+	background-color: #FF6666;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;	
+}
+
+.flex-container4 {
+	background-color: #669933;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;	
+
+}
+
+.flex-container5 {
+	background-color: #FF3333;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;	
+}
+
+.flex-container6 {
+	background-color: #6666FF;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;	
+}
+
+.flex-container7 {
+	background-color: #6633CC;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;	
+}
+
+.flex-container8 {
+	background-color: #FF66CC;
+	border: 1px solid #FFFFFF;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	max-width: 356px;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-bottom: 5px;	
+}
+
+
+.flex-item1 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #ff9900;
+	border-width: 2px;
+
+}
+
+.flex-item2 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #6699cc;
+	border-width: 2px;
+
+}
+
+.flex-item3 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #FF6666;
+	border-width: 2px;
+
+}
+
+.flex-item4 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #669933;
+	border-width: 2px;
+
+}
+
+.flex-item5 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #FF3333;
+	border-width: 2px;
+
+}
+
+.flex-item6 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #6666FF;
+	border-width: 2px;
+
+}
+
+.flex-item7 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #6633CC;
+	border-width: 2px;
+
+}
+
+.flex-item8 {
+	padding: 5px;
+	text-align: center;
+	border-color: white;
+	background-color: #FF66CC;
+	border-width: 2px;
+
+}
+
+.informatie{
+	max-width: 318px;
+	font-size: 13px;
+}
+
+h2{
+	margin-top: 0px;
+}
+
+.afbeelding{
+	max-width: 208px;
+	max-height: 161px;
+	box-shadow: 5px 5px 15px #000000;
+	border: 4px solid #FFFFFF;
+}
+
+.jaartal1{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #ff9900;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;
+}	
+
+.jaartal2{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #6699CC;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;
+}
+
+.jaartal3{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #FF6666;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;
+}
+
+.jaartal4{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #669933;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;	
+}
+
+.jaartal5{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #FF3333;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;	
+}
+
+.jaartal6{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #6666FF;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;	
+}
+
+.jaartal7{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #6633CC;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;	
+}
+
+.jaartal8{
+	display: inline-block;
+	padding: 10px;
+	border: 0.5px solid #FFFFFF;
+	background-color: #FF66CC;
+	position: relative;
+	margin-top: -20px;
+	border-width: 1px;
+	width: 163px;
+	font-size: 16px;	
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 361px) {
+
+header{
+	font-size: 28px;
+}
+
+
+.flex-container1 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;
+}
+
+.flex-container2 {
+	max-width: 568px;
+	flex-wrap:wrap;
+    margin:auto;
+}
+
+.flex-container3 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container4 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;		
+
+}
+
+.flex-container5 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container6 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container7 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container8 {
+	max-width: 568px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.informatie{
+	max-width: 544px;
+}
+
+.afbeelding{
+	max-width: 208px;
+	max-height: 162px;
+}
+
+.jaartal1{
+	width: 154px;
+}
+
+.jaartal2{
+	width: 154px;
+}
+
+.jaartal3{
+	width: 154px;
+}
+
+.jaartal4{
+	width: 154px;
+}
+
+.jaartal5{
+	width: 154px;
+}
+
+.jaartal6{
+	width: 154px;
+}
+
+.jaartal7{
+	width: 154px;
+}
+
+.jaartal8{
+	width: 154px;
+}
+
+}
+
+
+
+@media only screen and (min-width: 769px) {
+
+.titel{
+	font-size: 18px;
+}
+
+.flex-container1 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;
+}
+
+.flex-container2 {
+	max-width: 1123px;
+	flex-wrap:wrap;
+    margin:auto;
+}
+
+.flex-container3 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container4 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;		
+
+}
+
+.flex-container5 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container6 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container7 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container8 {
+	max-width: 1123px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.informatie{
+	max-width: 769px;
+	font-size: 16px;
+}
+
+.afbeelding{
+	max-width: 214px;
+	max-height: 176px;
+}
+
+.jaartal1{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal2{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal3{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal4{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal5{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal6{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal7{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal8{
+	width: 154px;
+	font-size: 20px;	
+}
+
+}
+
+
+@media only screen and (min-width: 1367px){
+
+.titel{
+font-size: 18px;
+}
+
+
+.flex-container1 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;
+}
+
+.flex-container2 {
+	max-width: 1204px;
+	flex-wrap:wrap;
+    margin:auto;
+}
+
+.flex-container3 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container4 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;		
+
+}
+
+.flex-container5 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container6 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container7 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.flex-container8 {
+	max-width: 1204px;
+    flex-wrap:wrap;
+    margin:auto;		
+}
+
+.informatie{
+	max-width: 853px;
+	font-size: 17px;
+}
+
+.afbeelding{
+	max-width: 229px;
+	max-height: 188px;
+}
+
+.jaartal1{
+	width: 165px;
+	font-size: 20px;	
+}
+
+.jaartal2{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal3{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal4{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal5{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal6{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal7{
+	width: 154px;
+	font-size: 20px;	
+}
+
+.jaartal8{
+	width: 154px;
+	font-size: 20px;	
+}
+}
